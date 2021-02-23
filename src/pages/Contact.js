@@ -1,11 +1,14 @@
 import React from "react";
 
 import ContactForm from "../components/ContactForm";
+import Wrapper from "../components/Wrapper";
 
-const Home = () => {
+const Contact = () => {
     return (
-      <ContactForm />
+        <Wrapper>
+             <ContactForm />
+      </Wrapper>
     );
   };
   
-  export default Home;
+  export default Contact;

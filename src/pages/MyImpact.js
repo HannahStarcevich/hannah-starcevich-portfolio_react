@@ -1,10 +1,15 @@
 import React from "react";
 
 import CardContainer from "../components/CardContainer";
+import MyImpactIntro from "../components/MyImpactIntro";
+import Wrapper from "../components/Wrapper";
 
 const MyImpact = () => {
     return (
-      <CardContainer />
+        <Wrapper>
+             <MyImpactIntro />
+             <CardContainer />
+        </Wrapper>
     );
   };
   

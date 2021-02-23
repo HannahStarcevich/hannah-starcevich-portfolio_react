@@ -1,11 +1,15 @@
 import React from "react";
 
 import CardContainer from "../components/CardContainer";
-import ContactForm from "../components/ContactForm";
+import MyIntro from "../components/MyIntro";
+import Wrapper from "../components/Wrapper";
 
 const Home = () => {
     return (
-      <CardContainer />
+        <Wrapper>
+             <MyIntro />
+             <CardContainer />
+        </Wrapper>
     );
   };
   
