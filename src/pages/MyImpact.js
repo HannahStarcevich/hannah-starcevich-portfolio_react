@@ -1,12 +1,11 @@
 import React from "react";
 
 import CardContainer from "../components/CardContainer";
-import ContactForm from "../components/ContactForm";
 
-const Home = () => {
+const MyImpact = () => {
     return (
       <CardContainer />
     );
   };
   
-  export default Home;
+  export default MyImpact;
