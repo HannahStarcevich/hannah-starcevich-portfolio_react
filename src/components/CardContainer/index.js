@@ -2,10 +2,10 @@ import React from "react";
 import Card from "../Card";
 import "./style.css";
 
-function CardContainer() {
+function CardContainer(props) {
   return (
     <div className="container">
-      <Card />
+      {props.children}
     </div>
   );
 }

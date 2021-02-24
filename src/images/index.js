@@ -1,0 +1,1 @@
+export { default as passwordgen} from "./passwordgen.png"

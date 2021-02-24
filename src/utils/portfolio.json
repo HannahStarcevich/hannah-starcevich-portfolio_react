@@ -1,31 +1,35 @@
 [
     {
       "id": 1,
+      "image": "/images/Employee-Directory.png",
       "title": "Employee Directory",
       "description": "This employee directory is a full stack web app built on React and features the Random User API. The UI is comprised of components, responds to user search and clears the search bar.",
-      "site-link": "https://employee-directory-hs.herokuapp.com/",
-      "github-link": "https://github.com/HannahStarcevich/employee-directory-hs"
+      "site": "https://employee-directory-hs.herokuapp.com/",
+      "github": "https://github.com/HannahStarcevich/employee-directory-hs"
     },
     {
       "id": 2,
+      "image": "/images/Employee-Directory.png",
       "title": "Pizza Cutter",
       "description": "Restaurant Website with Admin Dashbaord to dynamically update menu items displayed on the live customer site.",
-      "site-link": "https://pizzacutterapp.herokuapp.com/pizzacutter",
-      "github-link": "https://github.com/zhuxiaoyu1019/online-order-system"
+      "site": "https://pizzacutterapp.herokuapp.com/pizzacutter",
+      "github": "https://github.com/zhuxiaoyu1019/online-order-system"
     },
     {
       "id": 3,
+      "image": "/images/Employee-Directory.png",
       "title": "Burger Application",
       "description": "Utilize this application to generate a list of hamburgers that are 'ready to eat' and 'devour' the burgers.",
-      "site-link": "https://burger-app-hs.herokuapp.com/",
-      "github-link": "https://github.com/HannahStarcevich/Burger-HS"
+      "site": "https://burger-app-hs.herokuapp.com/",
+      "github": "https://github.com/HannahStarcevich/Burger-HS"
     },
     {
       "id": 4,
+      "image": "/images/Employee-Directory.png",
       "title": "In the Moment",
       "description": "Web Application & Team Project: Discover events and local breweries.",
-      "site-link": "https://andrew1835.github.io/In_The_Moment/",
-      "github-link": "https://github.com/andrew1835/In_The_Moment"
+      "site": "https://andrew1835.github.io/In_The_Moment/",
+      "github": "https://github.com/andrew1835/In_The_Moment"
     }
   ]
   
