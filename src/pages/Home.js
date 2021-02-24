@@ -1,4 +1,4 @@
-import { passwordgen } from "../images"
+
 import React, { useEffect, useState } from "react";
 import portfolioData from "../utils/portfolio.json";
 
