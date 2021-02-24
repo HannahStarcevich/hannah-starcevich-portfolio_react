@@ -16,7 +16,7 @@ function Navbar() {
         <a className="nav-link"><Link to="/MyImpact">My Impact</Link></a>
         <a className="nav-link" href="https://github.com/HannahStarcevich">GitHub</a>
         <a className="nav-link" href="https://www.linkedin.com/in/hannah-starcevich/">LinkedIn</a>
-        <a className="nav-link" href="Hannah-Starcevich_Resume_2-23.pdf">Resume</a>
+        <a className="nav-link" href="src/Hannah-Starcevich_Resume_2-23.pdf">Resume</a>
         <a className="nav-link"><Link to="/Contact">Contact</Link></a>
       </div>
     </div>

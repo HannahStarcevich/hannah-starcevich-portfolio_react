@@ -16,7 +16,7 @@ const Home = () => {
         <Wrapper>
              <MyIntro />
              <CardContainer>
-                 {portfolio.map( (project) => <Card title={project.title} description={project.description} site={project.site} github={project.github}/>)}
+                 {portfolio.map( (project) => <Card title={project.title} description={project.description} site={project.site} github={project.github} image={project.image}/>)}
              </CardContainer>
         </Wrapper>
     );
